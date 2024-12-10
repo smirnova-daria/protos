@@ -4,7 +4,7 @@
 // - protoc             v5.29.1
 // source: sso/sso.proto
 
-package smirnova_sso_v1
+package ssov1
 
 import (
 	context "context"
